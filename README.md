@@ -19,7 +19,11 @@ The input can be an .xlsx or .csv file containing a column of tweets. Since the 
 
     **Example**: `python main.py tweets.xlsx Tweet 0.01 utf8 10`   
 
+### Visualization
+Can be done using HighCharts. Example: https://jsfiddle.net/5xa4Ld2g/
 
 ### Citation:
 If you use this script and find it useful for your research, please cite the source as:
-Gupta, R., Vishwanath, A., and Yang, Y. (2020), COVID-19 Twitter dataset with latent topics, sentiments and emotions attributes, Working Manuscript, Institute of High Performance Computing
+Gupta, R., Vishwanath, A., and Yang, Y. (2020), COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes, Preprint at: https://arxiv.org/abs/2007.06954 
+
+For correspondence, please contact yangyp@ihpc.a-star.edu.sg
